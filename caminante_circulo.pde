@@ -30,7 +30,7 @@ class Caminante {
     dir += variacionAngular;
 
     x+= vel * cos(dir);
-    y+`= vel * sin(dir);
+    y+= vel * sin(dir);
 
 
   }
